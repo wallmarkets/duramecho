@@ -10,7 +10,7 @@ I really liked few articles published there, but it was really painful to read t
 
 # Result?
 
-![alt tag](https://cloud.githubusercontent.com/assets/3448555/20471100/7dd86aac-affa-11e6-939a-938b2281da90.png)
+![alt tag](https://cloud.githubusercontent.com/assets/3448555/20471222/a1f54ee0-affb-11e6-8bfd-7eea2b8f918f.png)
 
 I added few basic lines of styles in main style.css file. And I saved the result. 
 

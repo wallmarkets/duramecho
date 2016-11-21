@@ -16,4 +16,4 @@ I added few basic lines of styles in main style.css file. And I saved the result
 
 # P.S.
 
-Nowadays I learn some basic stuff in HTML/CSS, and am trying to get myself into Git. That's the second reason. Also, I'm in love with stuff like memory management. I don't know why, it's like that's right challenge for me.
+Nowadays I learn some basic stuff in HTML/CSS, and am trying to get myself into Git. That's the second reason. Also, I'm in love with stuff like memory management. I don't know why, it's like that's right challenge for me. And Google linked to the article.

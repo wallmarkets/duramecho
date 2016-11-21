@@ -24,7 +24,7 @@ body {
   line-height: 1.4;
 }
 
-body, p, h1, h2, h3, h4, h5, h6, h7, ul, ol, dl, table {	
+body, p, h1, h2, h3, h4, h5, h6, ul, ol, dl, table {	
   font-family: Georgia, Verdana, "Bitstream Vera Sans", "DejaVu Sans", Tahoma, Geneva, Helvetica, Arial, Sans-serif, Palatino, "Book Antiqua";
 	color: black;
 	text-indent: 0em;
@@ -32,18 +32,18 @@ body, p, h1, h2, h3, h4, h5, h6, h7, ul, ol, dl, table {
 
 }
 
-p {	text-indent: 1em;}
+p {text-indent: 1em;}
 
-h1, h2, h3, h4, h5, h6, h7 {	
+h1, h2, h3, h4, h5, h6, {	
   text-align: left;
-	margin-left: 0em;
-/* 	font-weight: bold; */
+  margin-left: 0em;
+  /* font-weight: bold; */
 }
 
 h1 {	
   text-align: center;
-	margin-left: 0em;
-	font-size: 250%;
+  margin-left: 0em;
+  font-size: 250%;
   border-bottom: 1px solid #eee;
 }
 
@@ -56,69 +56,65 @@ h2 {
 
 h3 {	
   margin-left: 2em;
-	font-size: 126%;
+  font-size: 126%;
 }
 
 h3 {	
   margin-left: 4em;
-	font-size: 112%;
+  font-size: 112%;
 }
 
 h3 {	
   margin-left: 6em;
-	font-size: 106%;
+  font-size: 106%;
 }
 
 h6 {	
   margin-left: 8em;
-	font-size: 103%;
+  font-size: 103%;
 }
 
 h7 {	
   margin-left: 10em;
-	font-size: 101%;
+  font-size: 101%;
 }
 
-a:link {	color: #0000FF;}
+a:link { color: #0000FF;}
 
-a:visited {	color: #A00000;}
+a:visited { color: #A00000;}
 
 a:hover {	
   color: #FFFFFF;
-	background-color: #000080;
+  background-color: #000080;
 }
 
 dl {	
   margin-left: 1em;
-	margin-right: 1em;
+  margin-right: 1em;
 }
 
 dt {	
   font-style: italic;
-	margin-top: 1ex;
+  margin-top: 1ex;
 }
 
-dd {	
-  font-style: normal;
-}
+dd {font-style: normal;}
 
-cite {	
-  font-size: smaller;
-}
+cite {font-size: smaller;}
 
 blocquote {	
   margin-left: 3em;
-	margin-right: 3em;
+  margin-right: 3em;
 }
 
 pre {	
   text-indent: 0em;
-	font-family: "Courier New";
+  font-family: "Courier New";
 }
 
 code {	
   font-family: Consolas, PT Mono, "Courier New", Courier, monospace;
-/*     color: #00b0ff; */
+  /* color: #00b0ff; */
   background-color: rgba(0, 0, 0, 0.04);
   border-radius: 3px;
   margin: 0;
@@ -132,27 +128,23 @@ code {
 
 hr.FooterSeparator {	
   margin-top: 2em;
-	width: 67%;
+  width: 67%;
 }
 
 p.Footer {	
   font-size: smaller;
-	text-align: right;
+  text-align: right;
 }
 
 /* Horizontal centring when required */
 
-p.CentredSubheading {	
-  text-align: center;
-}
+p.CentredSubheading {text-align: center;}
 
-p.CentredImageContainer {	
-  text-align: center;
-}
+p.CentredImageContainer {text-align: center;}
 
 table.Centred {	
   margin-left: auto;
-	margin-right: auto;
+  margin-right: auto;
 }
 
 /* End of File */

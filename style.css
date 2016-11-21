@@ -1,0 +1,159 @@
+/*
+/  By Andrew J. Hardwick
+/  http://duramecho.com
+*/
+
+/ Main CSS for Duramecho.com website
+/  Version 1.0.0
+/  2016/10/21
+/
+/  By Albert Nikanorov
+/  @nikanorovalbert at twitter dot com
+*/
+
+/* Main element styling */
+
+body {	
+  background-color: white;
+	color: black;
+	font-size: 12.25pt;
+  width: 550px;
+  padding-left: 80px;
+  letter-spacing: 0.1px;
+  letter-spacing: 0.1px;
+  line-height: 1.4;
+}
+
+body, p, h1, h2, h3, h4, h5, h6, h7, ul, ol, dl, table {	
+  font-family: Georgia, Verdana, "Bitstream Vera Sans", "DejaVu Sans", Tahoma, Geneva, Helvetica, Arial, Sans-serif, Palatino, "Book Antiqua";
+	color: black;
+	text-indent: 0em;
+	text-align: justify;
+
+}
+
+p {	text-indent: 1em;}
+
+h1, h2, h3, h4, h5, h6, h7 {	
+  text-align: left;
+	margin-left: 0em;
+/* 	font-weight: bold; */
+}
+
+h1 {	
+  text-align: center;
+	margin-left: 0em;
+	font-size: 250%;
+  border-bottom: 1px solid #eee;
+}
+
+h2 {	
+  margin-left: 0em;
+  -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+	font-size: 158%;
+  border-bottom: 1px solid #eee;
+}
+
+h3 {	
+  margin-left: 2em;
+	font-size: 126%;
+}
+
+h3 {	
+  margin-left: 4em;
+	font-size: 112%;
+}
+
+h3 {	
+  margin-left: 6em;
+	font-size: 106%;
+}
+
+h6 {	
+  margin-left: 8em;
+	font-size: 103%;
+}
+
+h7 {	
+  margin-left: 10em;
+	font-size: 101%;
+}
+
+a:link {	color: #0000FF;}
+
+a:visited {	color: #A00000;}
+
+a:hover {	
+  color: #FFFFFF;
+	background-color: #000080;
+}
+
+dl {	
+  margin-left: 1em;
+	margin-right: 1em;
+}
+
+dt {	
+  font-style: italic;
+	margin-top: 1ex;
+}
+
+dd {	
+  font-style: normal;
+}
+
+cite {	
+  font-size: smaller;
+}
+
+blocquote {	
+  margin-left: 3em;
+	margin-right: 3em;
+}
+
+pre {	
+  text-indent: 0em;
+	font-family: "Courier New";
+}
+
+code {	
+  font-family: Consolas, PT Mono, "Courier New", Courier, monospace;
+/*     color: #00b0ff; */
+  background-color: rgba(0, 0, 0, 0.04);
+  border-radius: 3px;
+  margin: 0;
+  padding: 0;
+  padding-top: 0.2em;
+  padding-bottom: 0.2em;
+  font-size: 0.911111em;
+}
+
+/* Footer */
+
+hr.FooterSeparator {	
+  margin-top: 2em;
+	width: 67%;
+}
+
+p.Footer {	
+  font-size: smaller;
+	text-align: right;
+}
+
+/* Horizontal centring when required */
+
+p.CentredSubheading {	
+  text-align: center;
+}
+
+p.CentredImageContainer {	
+  text-align: center;
+}
+
+table.Centred {	
+  margin-left: auto;
+	margin-right: auto;
+}
+
+/* End of File */
+
